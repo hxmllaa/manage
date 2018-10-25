@@ -1,0 +1,12 @@
+
+.add {
+  float:right;
+  margin-top:20px;
+  color:white;
+  background-color: #8f56ff;
+}
+
+.update {
+  display:flex;
+  justify-content: flex-start;
+}
